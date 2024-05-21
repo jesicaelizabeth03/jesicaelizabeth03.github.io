@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dive into the Cultural Tapestry"
-date:   2024-05-18 13:46:33 +0800
+date:   2024-05-19 13:46:33 +0800
 categories: jekyll update
 ---
 Indonesia's cultural heritage is as diverse as its natural landscapes. With over [17,000 islands][island], the nation is home to more than 1,300 [ethnic groups][ethnic], each possessing unique traditions, languages, and customs. Experience the vibrant Gamelan music and dance performances in Yogyakarta or witness the enchanting [Barong dance][barong] in Bali. Explore the ancient [Borobudur][borobudur] and Prambanan temples, which stand as a testament to Indonesia's rich history and religious heritage. Immerse yourself in local festivities such as the colorful Batik Festival or the exuberant Baliem Valley Cultural Festival to truly understand the depth of Indonesian culture.
